@@ -30,20 +30,40 @@ As Git admin, I ensured all project content was correctly formatted and thorough
 
 <table>
   <tr>
+    <td align="center"><strong>Before Design</strong></td>
+    <td align="center"><strong>Figma Design</strong></td>
+    <td align="center"><strong>Final Design</strong></td>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="MOTUSVR/Menu-Figma3.png" alt="Prototype 1" width="333"/><br>
-      <sub>Prototype 1</sub>
+      <img src="MOTUSVR/Menu-Figma3.png" alt="Prototype 1" width="333"/>
     </td>
     <td align="center">
-      <img src="MOTUSVR/Menu-figma2.png" alt="Prototype 2" width="333"/><br>
-      <sub>Prototype 2</sub>
+      <img src="MOTUSVR/Menu-figma2.png" alt="Prototype 2" width="333"/>
     </td>
     <td align="center">
-      <img src="MOTUSVR/Menu-figma.png" alt="Final Design" width="333"/><br>
-      <sub>Final Design</sub>
+      <img src="MOTUSVR/Menu-figma.png" alt="Final Design" width="333"/>
     </td>
   </tr>
 </table>
+
+
+### Demo Preview
+
+<table>
+  <tr>
+    <td>
+      <img src="MOTUSVR/Menu.gif" alt="Demo Preview" width="600" />
+    </td>
+    <td style="padding-left: 20px; vertical-align: top;">
+      <h3>Demo Preview</h3>
+      <p>
+Following client feedback and research into intuitive and accessible design principles for our care home product, we designed and implemented the final menu navigation UI. Our aim was to ensure the menu remained as user-friendly as possible for navigating the VR experience (note - the text may seem a little hard to read due to lighting, but the lighting looks different in VR)
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
