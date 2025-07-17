@@ -15,6 +15,21 @@
 
 <table>
   <tr>
+    <td>
+      <p>
+        <strong>My role as Git Administrator</strong><br>
+As Git admin, I ensured all project content was correctly formatted and thoroughly reviewed before merging to maintain code integrity. This involved managing the central codebase and resolving merge conflicts. My role taught me the critical importance of pre-integration quality control and seamless team collaboration, particularly when dealing with large project files and bug fixing. Naturally, A large part of my role was coding the mechanics and assissting people when they were stuck. I feel proud on my performance on adapting quickly to use the tool unreal engine and being able to assist my teammates when needed.
+      </p>
+    </td>
+    <td width="500">
+      <img src="MOTUSVR/Laptop.png" alt="MOTUSVR/groupphoto.png" width="400" />
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
     <td align="center">
       <img src="MOTUSVR/Menu-Figma3.png" alt="Prototype 1" width="333"/><br>
       <sub>Prototype 1</sub>
