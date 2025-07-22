@@ -47,23 +47,17 @@ As Git admin, I ensured all project content was correctly formatted and thorough
   </tr>
 </table>
 
-
-### Demo Preview
-
 <table>
+    <tr>
+    <td align="center"><strong>Demo</strong></td>
+  </tr>
   <tr>
     <td>
-      <img src="MOTUSVR/Menu.gif" alt="Demo Preview" width="600" />
-    </td>
-    <td style="padding-left: 20px; vertical-align: top;">
-      <h3>Demo Preview</h3>
-      <p>
-Following client feedback and research into intuitive and accessible design principles for our care home product, we designed and implemented the final menu navigation UI. Our aim was to ensure the menu remained as user-friendly as possible for navigating the VR experience (note - the text may seem a little hard to read due to lighting, but the lighting looks different in VR)
-      </p>
+      <img src="MOTUSVR/Menu.gif" alt="Demo Preview" width="1000" />
     </td>
   </tr>
 </table>
-
+Following client feedback and research into intuitive and accessible design principles for our care home product, we designed and implemented the final menu navigation UI. Our aim was to ensure the menu remained as user-friendly as possible for navigating the VR experience (note - the text may seem a little hard to read due to lighting, but the lighting looks different in VR)
 
 
 
